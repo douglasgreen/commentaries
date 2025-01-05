@@ -1,4 +1,4 @@
-# Deuterocanon
+# Commentary on the Deuterocanon
 
 The Deuterocanon refers to a collection of books and additions to books that are included in the Old Testament of the Roman Catholic and Eastern Orthodox Bibles but are not found in the Hebrew Bible or most Protestant Bibles. Here's a detailed explanation:
 

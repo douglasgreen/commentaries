@@ -1,4 +1,4 @@
-# Old Testament
+# Commentary on the Old Testament
 
 The Old Testament is a collection of religious texts that form the first part of the Christian Bible. It is also closely related to the Hebrew Bible, known as the Tanakh in Judaism. Here's a breakdown of the Old Testament:
 

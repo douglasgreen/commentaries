@@ -1,4 +1,4 @@
-# New Testament Commentary
+# Commentary on the New Testament
 
 The New Testament is the second division of the Christian biblical canon, following the Old Testament. It is a collection of 27 books written in Koine Greek by various authors and is central to Christian theology and practice. The New Testament focuses on the teachings and life of Jesus Christ and the early Christian church.
 
