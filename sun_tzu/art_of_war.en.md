@@ -239,17 +239,17 @@ outcomes.
     confrontation, aligning with Sun Tzu's broader theme of using deception and indirect strategies
     to achieve success in warfare.
 
-23. Sun Tzu's advice in "The Art of War" to "give him no rest" if the enemy is taking his ease, and
-    to "separate them" if his forces are united, emphasizes the strategy of maintaining pressure and
-    exploiting weaknesses. When an opponent is relaxed or complacent, it is an opportune moment to
-    disrupt their peace and keep them on edge, preventing them from regaining strength or focus.
-    Similarly, when enemy forces are united, they are stronger and more resilient; thus, dividing
-    them weakens their collective power and makes them more vulnerable to defeat. This approach is
-    rooted in the principle of exploiting the enemy's vulnerabilities and maintaining the
-    initiative, ensuring that the adversary is constantly reacting to your moves rather than
-    executing their own plans. This strategy of divide and conquer is a timeless military tactic
-    that aims to destabilize and weaken the opponent by creating internal divisions and preventing
-    them from consolidating their strength.
+23. Sun Tzu's advice to "give him no rest" if the enemy is taking his ease, and to "separate them"
+    if his forces are united, emphasizes the strategy of maintaining pressure and exploiting
+    weaknesses. When an opponent is relaxed or complacent, it is an opportune moment to disrupt
+    their peace and keep them on edge, preventing them from regaining strength or focus. Similarly,
+    when enemy forces are united, they are stronger and more resilient; thus, dividing them weakens
+    their collective power and makes them more vulnerable to defeat. This approach is rooted in the
+    principle of exploiting the enemy's vulnerabilities and maintaining the initiative, ensuring
+    that the adversary is constantly reacting to your moves rather than executing their own plans.
+    This strategy of divide and conquer is a timeless military tactic that aims to destabilize and
+    weaken the opponent by creating internal divisions and preventing them from consolidating their
+    strength.
 
 24. Sun Tzu's advice emphasizes the strategic advantage of surprise and unpredictability in warfare.
     By targeting the enemy's vulnerabilities and striking when they are least prepared, a commander
@@ -268,16 +268,15 @@ outcomes.
     ability to mislead and outmaneuver opponents, ensuring that one's true intentions and
     capabilities remain hidden until the decisive moment.
 
-26. Sun Tzu, in this passage from "The Art of War," emphasizes the critical importance of thorough
-    preparation and strategic planning before engaging in battle. He asserts that a successful
-    general is one who makes extensive calculations and plans in advance, considering various
-    scenarios and potential outcomes. This meticulous preparation increases the likelihood of
-    victory. Conversely, a general who fails to plan adequately, or does not plan at all, is more
-    likely to face defeat. Sun Tzu suggests that the outcome of a battle can often be predicted
-    based on the level of preparation and foresight demonstrated by the leaders involved. This
-    principle underscores the value of strategic thinking and the ability to anticipate and adapt to
-    changing circumstances, which is applicable not only in warfare but also in various fields such
-    as business and leadership.
+26. Sun Tzu, in this passage, emphasizes the critical importance of thorough preparation and
+    strategic planning before engaging in battle. He asserts that a successful general is one who
+    makes extensive calculations and plans in advance, considering various scenarios and potential
+    outcomes. This meticulous preparation increases the likelihood of victory. Conversely, a general
+    who fails to plan adequately, or does not plan at all, is more likely to face defeat. Sun Tzu
+    suggests that the outcome of a battle can often be predicted based on the level of preparation
+    and foresight demonstrated by the leaders involved. This principle underscores the value of
+    strategic thinking and the ability to anticipate and adapt to changing circumstances, which is
+    applicable not only in warfare but also in various fields such as business and leadership.
 
 ## Chapter II. WAGING WAR
 
